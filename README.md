@@ -1,10 +1,5 @@
 # 博客后台管理系统（简单版）
 
-## 获取方式
-
-扫描下方，回复关键词  ：**博客6** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -49,11 +44,5 @@
 
 ![友链管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181850250.jpg)
 
-## 5、获取方式
 
-扫描下方，回复关键词  ：**博客6** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
